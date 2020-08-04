@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{674F7076-24AB-4793-A2D0-D7C7EE23F60D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>bote_diyari</RootNamespace>
+    <AssemblyName>bote_diyari</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adminanasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminanasayfa.Designer.cs">
+      <DependentUpon>adminanasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="akademisyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="akademisyen.Designer.cs">
+      <DependentUpon>akademisyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="akademisyenekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="akademisyenekle.Designer.cs">
+      <DependentUpon>akademisyenekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="akademisyenguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="akademisyenguncelle.Designer.cs">
+      <DependentUpon>akademisyenguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="akademisyensil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="akademisyensil.Designer.cs">
+      <DependentUpon>akademisyensil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="anasayfa.Designer.cs">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ders.Designer.cs">
+      <DependentUpon>ders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dersler.Designer.cs">
+      <DependentUpon>dersler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ilksayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ilksayfa.Designer.cs">
+      <DependentUpon>ilksayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="universite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="universite.Designer.cs">
+      <DependentUpon>universite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="universiteekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="universiteekle.Designer.cs">
+      <DependentUpon>universiteekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="universiteguncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="universiteguncelle.Designer.cs">
+      <DependentUpon>universiteguncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="universitesil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="universitesil.Designer.cs">
+      <DependentUpon>universitesil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="verilendersduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="verilendersduzenle.Designer.cs">
+      <DependentUpon>verilendersduzenle.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adminanasayfa.resx">
+      <DependentUpon>adminanasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="akademisyen.resx">
+      <DependentUpon>akademisyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="akademisyenekle.resx">
+      <DependentUpon>akademisyenekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="akademisyenguncelle.resx">
+      <DependentUpon>akademisyenguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="akademisyensil.resx">
+      <DependentUpon>akademisyensil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="anasayfa.resx">
+      <DependentUpon>anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ders.resx">
+      <DependentUpon>ders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dersler.resx">
+      <DependentUpon>dersler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ilksayfa.resx">
+      <DependentUpon>ilksayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="universite.resx">
+      <DependentUpon>universite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="universiteekle.resx">
+      <DependentUpon>universiteekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="universiteguncelle.resx">
+      <DependentUpon>universiteguncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="universitesil.resx">
+      <DependentUpon>universitesil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="verilendersduzenle.resx">
+      <DependentUpon>verilendersduzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\robot-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geri.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geri.fw1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow_Back-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.fw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.fw1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil.png" />
+    <None Include="Resources\ekle.png" />
+    <None Include="Resources\duzenle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bote_diyari.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\bötediyarilogo5.png" />
+    <None Include="Resources\bötediyarilogo4.png" />
+    <None Include="Resources\bötediyarilogo3.png" />
+    <None Include="Resources\bötediyarilogo2.png" />
+    <None Include="Resources\bötediyarilogo1.png" />
+    <None Include="Resources\bötediyarilogo.png" />
+    <None Include="Resources\update.png" />
+    <None Include="Resources\cop.png" />
+    <None Include="Resources\asdadd.png" />
+    <None Include="Resources\Untitled-19-256 kopya1.png" />
+    <None Include="Resources\Untitled-19-256 kopya.png" />
+    <None Include="Resources\1496089754_back.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

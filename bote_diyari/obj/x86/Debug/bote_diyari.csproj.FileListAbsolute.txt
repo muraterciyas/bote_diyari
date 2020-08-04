@@ -1,0 +1,72 @@
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\bin\Debug\bote_diyari.exe
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\bin\Debug\bote_diyari.pdb
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.Properties.Resources.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.csproj.GenerateResource.Cache
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.exe
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.pdb
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.csprojResolveAssemblyReference.cache
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universite.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyen.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.dersler.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\bin\Debug\bote_diyari.exe.config
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.giris.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.ilksayfa.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.geri.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.adminanasayfa.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universiteekle.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universitesil.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universiteguncelle.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyenekle.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyensil.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\bin\Debug\bote_diyari.accdb
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyenguncelle.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.ders.resources
+C:\Users\MertPC\Documents\Visual Studio 2010\Projects\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.verilendersduzenle.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\bin\Debug\bote_diyari.exe.config
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.exe
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.pdb
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\bin\Debug\bote_diyari.accdb
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\bin\Debug\bote_diyari.exe
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\bin\Debug\bote_diyari.pdb
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.csprojResolveAssemblyReference.cache
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.adminanasayfa.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyen.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyenekle.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyenguncelle.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyensil.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.geri.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.ders.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.dersler.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.giris.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.ilksayfa.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.Properties.Resources.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universite.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universiteekle.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universiteguncelle.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universitesil.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.verilendersduzenle.resources
+C:\Users\ASUS PC\Desktop\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\bin\Debug\bote_diyari.accdb
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\bin\Debug\bote_diyari.exe.config
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\bin\Debug\bote_diyari.exe
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.adminanasayfa.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyen.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyenekle.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyenguncelle.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.akademisyensil.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.geri.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.ders.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.dersler.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.giris.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.ilksayfa.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.Properties.Resources.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universite.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universiteekle.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universiteguncelle.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.universitesil.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.verilendersduzenle.resources
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.csproj.GenerateResource.cache
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.exe
+C:\Users\Murat\Desktop\New folder\bote_diyari (1)\bote_diyari\bote_diyari\obj\x86\Debug\bote_diyari.pdb
