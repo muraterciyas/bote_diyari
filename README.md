@@ -13,3 +13,5 @@
  Projede yapılan hatalar ve çözümleri:
  1- program kodlarının ve veritabanının oluşturulup yapıldığı bilgisayarlar farklıydı.Bu bilgisayarlardaki işletim sistemleri ve kullanılan access sürümleri de farklıydı. Access sürüm farklılıklarından dolayı proje başka bilgisayarda veritabanı bağlantı hatası verdi. Bu hatayı kullandığımız bağlantı kodunu güncelleyerek çözdük. Bu sayede hem eski veritabanı sürümlerinde, hem de yeni veritabanı sürümlerinde kodun bağlantı yapılmış oldu.
  2- Veritabanı tabloları oluşturulurken mantıksal hatalar yapılmıştı ve bu hatalardan kaynaklı sorgulamalarda sıkıntılar yaşadığımızdan veritabanını veri tablolarını tekrardan düzenleyip normalleştirmeler yapmamız gerekti.
+ 
+ web sayfama www.muraterciyas.net adresinden ulaşabilirsiniz.
